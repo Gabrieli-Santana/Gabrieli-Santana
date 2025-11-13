@@ -109,4 +109,3 @@ Atualmente estou focada em desenvolver minhas habilidades em **backend com Pytho
   *"O sucesso é a soma de pequenos esforços repetidos dia após dia."* - Robert Collier
   
 </div>
-```
