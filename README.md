@@ -89,10 +89,10 @@ Atualmente estou focada em desenvolver minhas habilidades em **backend com Pytho
 
 <div align="center">
 
-  📧 **Email:** [gabrielisantanademlo@gmail.com]  
+  📧 **Email:** gabrielisantanademlo@gmail.com  
   💼 **LinkedIn:** [www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gabrieli-santana-4a95512b1/)  
-  📚 **Instituição:** [Unicesumar]  
-  🏠 **Localização:** [Florianópolis/SC]
+  📚 **Instituição:** Unicesumar  
+  🏠 **Localização:** Florianópolis/SC
   
   <br/>
   
