@@ -80,7 +80,7 @@ Atualmente estou focada em desenvolver minhas habilidades em **backend com Pytho
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrieli-Santana&show_icons=true&theme=radical)
-  
+  ![GitHub Snake](https://github.com/Gabrieli-Santana/monitoring-dashboard/blob/output/github-contribution-grid-snake.svg)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieli-Santana&layout=compact&theme=radical)
   
 </div>
